@@ -23,7 +23,7 @@ MODEL_CAPABILITIES = {
         CAPABILITY_MAX_FAN_SPEED: 6,
         CAPABILITY_AUTO: True,
     },
-    "Molekule Air Plus": {
+    "Air Mini Plus": {
         CAPABILITY_MAX_FAN_SPEED: 5,
         CAPABILITY_AUTO: True,
     }
