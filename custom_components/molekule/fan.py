@@ -22,6 +22,10 @@ MODEL_CAPABILITIES = {
     "Molekule Air Pro": {
         CAPABILITY_MAX_FAN_SPEED: 6,
         CAPABILITY_AUTO: True,
+    },
+    "Molekule Air Plus": {
+        CAPABILITY_MAX_FAN_SPEED: 5,
+        CAPABILITY_AUTO: True,
     }
 }
 
